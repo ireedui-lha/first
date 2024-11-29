@@ -1,0 +1,27 @@
+.dog {
+  background-color: yellow;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.cat {
+  background-color: red;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.horse {
+  background-color: blue;
+  text-align: center;
+}
+.cow {
+  background-color: blueviolet;
+  text-align: center;
+  padding-left: 100px;
+}
+.parent2 {
+  display: flex;
+  gap: 30px;
+}
+.parent3 {
+  display: flex;
+  gap: 30px;
+}
